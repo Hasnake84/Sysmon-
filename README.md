@@ -1,3 +1,4 @@
+  <a href="https://imgur.com/JriwpLt"><img src="https://i.imgur.com//JriwpLt.png" title="source: imgur.com" /></a>
 # SYSMON
 
 ## Installing System monitor add on for Windows (SysMon)
@@ -5,7 +6,7 @@
 # Steps
 
 - Got to https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
-- Press Download sysmon
+- Click Download sysmon
 - Extract folder
 - Download a configuration file from https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml
 - To download configuration file, right click on Raw code data and save xml file in the same folder as extracted Sysmon tool installation files.
